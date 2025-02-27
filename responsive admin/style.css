@@ -287,7 +287,7 @@ main .analyse .visits svg circle{
 }
 
 main .analyse .searches svg circle{
-    stroke: var(--color-primary);
+    stroke: var(--color-info-dark);
     stroke-dashoffset: -30;
     stroke-dasharray: 200;
 }
